@@ -1,0 +1,1 @@
+document.write("<h1>Fuck you all man!</h1>");
